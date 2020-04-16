@@ -1,0 +1,77 @@
+.boxs {
+  width: 95vw;
+  height: 40vh;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  .mBox1 {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 33%;
+    background-color: $mBox1;
+  }
+  .mBox2 {
+    height: 100%;
+    width: 33%;
+    background-color: $mBox2;
+  }
+  .mBox3 {
+    background-color: $mBox3;
+    width: 34%;
+    height: 100%;
+  }
+  .m2Box1 {
+    background-color: $m2Box1;
+    width: 34%;
+    height: 100%;
+  }
+  .m2Box2 {
+    background-color: $m2Box2;
+    width: 34%;
+    height: 100%;
+  }
+  .m2Box3 {
+    background-color: $m2Box3;
+    width: 34%;
+    height: 100%;
+  }
+  .m3Box1 {
+    background-color: $m3Box1;
+    width: 34%;
+    height: 100%;
+  }
+  .m3Box2 {
+    background-color: $m3Box2;
+    width: 34%;
+    height: 100%;
+  }
+  .m3Box3 {
+    background-color: $m3Box3;
+    width: 34%;
+    height: 100%;
+  }
+  .m4Box1 {
+    background-color: $m4Box1;
+    width: 34%;
+    height: 100%;
+  }
+  .m4Box2 {
+    background-color: $m4Box2;
+    width: 34%;
+    height: 100%;
+  }
+  .m4Box3 {
+    background-color: $m4Box3;
+    width: 34%;
+    height: 100%;
+  }
+}
+.box {
+  width: 20%;
+  height: 100%;
+  // background-color: blue;
+  border-radius: 10px;
+  display: flex;
+}
